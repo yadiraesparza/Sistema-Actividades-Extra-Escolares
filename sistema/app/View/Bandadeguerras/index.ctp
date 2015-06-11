@@ -13,7 +13,8 @@
 			<th><?php echo $this->Paginator->sort('No_Control'); ?></th>
 			<th><?php echo $this->Paginator->sort('Nombre'); ?></th>
 			<th><?php echo $this->Paginator->sort('Sexo'); ?></th>
-			<th><?php echo $this->Paginator->sort('Semestre_y_Carrera'); ?></th>
+			<th><?php echo $this->Paginator->sort('Semestre); ?></th>
+			<th><?php echo $this->Paginator->sort('Carrera'); ?></th>
 			<th><?php echo $this->Paginator->sort('Modified'); ?></th>
 			<th><?php echo $this->Paginator->sort('Created'); ?></th>
 			<th class="actions"><?php echo __('Actions'); ?></th>
